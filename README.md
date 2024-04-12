@@ -18,13 +18,5 @@ Build para Produção:
 
 Utilize npm run build para compilar o aplicativo para produção.
 O resultado será armazenado na pasta build.
-Firebase Deployment:
-
-O Firebase é utilizado para o deploy do aplicativo para produção.
-
-
-Recursos Adicionais
-Para aprender mais sobre o Create React App, consulte a documentação oficial.
-Para aprender React, confira a documentação oficial do React.
 
 
